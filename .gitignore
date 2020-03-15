@@ -103,4 +103,5 @@ dist
 # TernJS port file
 .tern-port
 
-.code-*
+# VS Code workspace config
+.code-workspace
