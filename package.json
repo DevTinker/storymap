@@ -1,0 +1,19 @@
+{
+  "name": "storymap",
+  "version": "1.0.0",
+  "description": "Creating Visible plans as a collaborative team",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevTinker/storymap.git"
+  },
+  "author": "Chris Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevTinker/storymap/issues"
+  },
+  "homepage": "https://github.com/DevTinker/storymap#readme"
+}
